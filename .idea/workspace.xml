@@ -24,6 +24,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -62,7 +63,10 @@
       <workItem from="1587652067566" duration="644000" />
       <workItem from="1587732113054" duration="2251000" />
       <workItem from="1622893181903" duration="11942000" />
-      <workItem from="1622985893953" duration="3325000" />
+      <workItem from="1622985893953" duration="3922000" />
+      <workItem from="1623240606794" duration="521000" />
+      <workItem from="1623242558243" duration="1261000" />
+      <workItem from="1623409894195" duration="1431000" />
     </task>
     <servers />
   </component>
